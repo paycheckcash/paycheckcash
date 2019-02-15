@@ -5,7 +5,7 @@ Setup
 ---------------------
 PaycheckCash Core is the original PaycheckCash client and it builds the backbone of the network. It downloads and, by default, stores the entire history of PaycheckCash transactions (which is currently more than 100 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download PaycheckCash Core, visit [paycheckcashcore.org](https://paycheckcashcore.org/en/releases/).
+To download PaycheckCash Core, visit [paycheckcash.net](https://paycheckcash.net/en/releases/).
 
 Running
 ---------------------
@@ -28,10 +28,7 @@ Drag PaycheckCash Core to your applications folder, and then run PaycheckCash Co
 
 ### Need Help?
 
-* See the documentation at the [PaycheckCash Wiki](https://en.paycheckcash.it/wiki/Main_Page)
-for help and more information.
-* Ask for help on [#paycheckcash](http://webchat.freenode.net?channels=paycheckcash) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=paycheckcash).
-* Ask for help on the [PaycheckCashTalk](https://paycheckcashtalk.org/) forums, in the [Technical Support board](https://paycheckcashtalk.org/index.php?board=4.0).
+
 
 Building
 ---------------------
@@ -63,9 +60,7 @@ The PaycheckCash repo's [root README](/README.md) contains relevant information 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [PaycheckCashTalk](https://paycheckcashtalk.org/) forums, in the [Development & Technical Discussion board](https://paycheckcashtalk.org/index.php?board=6.0).
-* Discuss project-specific development on #paycheckcash-core-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=paycheckcash-core-dev).
-* Discuss general PaycheckCash development on #paycheckcash-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=paycheckcash-dev).
+
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
