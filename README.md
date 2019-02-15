@@ -3,7 +3,7 @@ PaycheckCash Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/paycheckcash/paycheckcash.svg?branch=master)](https://travis-ci.org/paycheckcash/paycheckcash)
 
-https://paycheckcashcore.org
+https://paycheckcash.net
 
 What is PaycheckCash?
 ----------------
