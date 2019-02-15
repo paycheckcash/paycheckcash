@@ -1,0 +1,33 @@
+# /etc/conf.d/paycheckcashd: config file for /etc/init.d/paycheckcashd
+
+# Config file location
+#PAYCHECKCASHD_CONFIGFILE="/etc/paycheckcash/paycheckcash.conf"
+
+# What directory to write pidfile to?  (created and owned by $PAYCHECKCASHD_USER)
+#PAYCHECKCASHD_PIDDIR="/var/run/paycheckcashd"
+
+# What filename to give the pidfile
+#PAYCHECKCASHD_PIDFILE="${PAYCHECKCASHD_PIDDIR}/paycheckcashd.pid"
+
+# Where to write paycheckcashd data (be mindful that the blockchain is large)
+#PAYCHECKCASHD_DATADIR="/var/lib/paycheckcashd"
+
+# User and group to own paycheckcashd process
+#PAYCHECKCASHD_USER="paycheckcash"
+#PAYCHECKCASHD_GROUP="paycheckcash"
+
+# Path to paycheckcashd executable
+#PAYCHECKCASHD_BIN="/usr/bin/paycheckcashd"
+
+# Nice value to run paycheckcashd under
+#PAYCHECKCASHD_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#PAYCHECKCASHD_OPTS=""
+
+# The timeout in seconds OpenRC will wait for paycheckcashd to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+PAYCHECKCASHD_SIGTERM_TIMEOUT=60
