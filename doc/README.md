@@ -1,5 +1,5 @@
-PaycheckCash Core
-=============
+Paycheck Cash Core
+==================
 
 Setup
 ---------------------
