@@ -15,8 +15,8 @@ out collectively by the network. PaycheckCash Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the PaycheckCash Core software, see https://paycheckcashcore.org/en/download/, or read the
-[original whitepaper](https://paycheckcashcore.org/paycheckcash.pdf).
+the PaycheckCash Core software, see https://paycheckcash.net/download/, or read the
+[original whitepaper](https://paycheckcash.net/paycheckcash.pdf).
 
 License
 -------
@@ -28,8 +28,8 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/paycheckcash/paycheckcash/tags) are created
-regularly to indicate new official, stable release versions of PaycheckCash Core.
+completely stable. visit (https://github.com/paycheckcash/release/) or 
+http://www.paycheckcash.net/download/ for official, stable release versions of PaycheckCash Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -64,13 +64,7 @@ not straightforward.
 Translations
 ------------
 
-Changes to translations as well as new translations can be submitted to
-[PaycheckCash Core's Transifex page](https://www.transifex.com/projects/p/paycheckcash/).
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/paycheckcash-translators).
+
