@@ -170,7 +170,7 @@ public:
         // This is fine at runtime as we'll fall back to using them as a oneshot if they don't support the
         // service bits we want, but we should get them updated to support all service bits wanted by any
         // release ASAP to avoid it where possible.
-           vSeeds.emplace_back("104.238.179.55");          
+           vSeeds.emplace_back("45.76.250.120");          
            vSeeds.emplace_back("184.66.84.111");
      
 
