@@ -23,6 +23,7 @@ Current Seed node addresses and mining instructions
 In paycheck cash core configuration add the following to sync and mine:
 
 Addnode=165.227.54.67
+
 gen=1
 
 
