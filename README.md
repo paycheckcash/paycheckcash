@@ -3,7 +3,7 @@ PaycheckCash Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://paycheckcash.net
+https://paycheckcash.org
 
 What is PaycheckCash?
 ----------------
@@ -16,7 +16,15 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the PaycheckCash Core software, see https://paycheckcash.net/download/, or read the
-[original whitepaper](https://paycheckcash.net/paycheckcash.pdf).
+[original whitepaper](https://paycheckcash.org/paycheckcash.pdf).
+
+Current Seed node addresses and mining instructions
+---------------------------------------------------
+In paycheck cash core configuration add the following to sync and mine:
+
+Addnode=165.227.54.67
+gen=1
+
 
 License
 -------
@@ -28,9 +36,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. visit https://github.com/paycheckcash/release/ or 
-http://www.paycheckcash.net/download/ for official, stable release versions of
-PaycheckCash Core.
+completely stable. visit https://www.paycheckcash.org for stable releases.
 
 
 Testing
