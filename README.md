@@ -10,7 +10,7 @@ What is PaycheckCash?
 
 PaycheckCash is an experimental digital currency that enables instant payments to
 workers, employees, contractors or anyone that works world wide. PaycheckCash uses peer-to-peer 
-technology to operate with no central authority: managing transactions and issuing money are carried
+technology to operate with no central authority: Managing transactions and issuing money are carried
 out collectively by the network. PaycheckCash Core is the name of open source
 software which enables the use of this currency.
 
