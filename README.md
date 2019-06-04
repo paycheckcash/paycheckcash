@@ -20,7 +20,7 @@ the PaycheckCash Core software, see https://paycheckcash.net/download/, or read 
 
 Current Seed node addresses and mining instructions
 ---------------------------------------------------
-In paycheck cash core configuration add the following to sync and mine:
+In paycheck cash core configuration file paycheckcash.conf add the following to sync and mine:
 
 server=1
 
