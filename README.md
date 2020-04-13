@@ -24,9 +24,9 @@ In paycheck cash core configuration file paycheckcash.conf add the following to 
 
 server=1
 
-addnode=149.28.230.237
+addnode=104.156.251.107
 
-addnode=45.76.141.52
+
 
 
 gen=1
