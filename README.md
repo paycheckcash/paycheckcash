@@ -14,22 +14,8 @@ technology to operate with no central authority: Managing transactions and issui
 out collectively by the network. PaycheckCash Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the PaycheckCash Core software, see https://paycheckcash.net/download/, or read the
-[original whitepaper](https://paycheckcash.org/paycheckcash.pdf).
-
-Current Seed node addresses and mining instructions
----------------------------------------------------
-In paycheck cash core configuration file paycheckcash.conf add the following to sync and mine:
-
-server=1
-
-addnode=104.156.251.107
 
 
-
-
-gen=1
 
 
 License
